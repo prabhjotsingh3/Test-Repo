@@ -9,3 +9,5 @@ import os
 
 
 print("Hello GitHub")
+
+print("Change from the clone directory")
