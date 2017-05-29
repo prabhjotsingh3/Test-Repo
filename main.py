@@ -15,3 +15,5 @@ print("Change from the clone directory")
 print ("Change from the push directory")
 
 print("Changes from the fetch directory")
+
+print("This statement is added via GitHub web interface")
